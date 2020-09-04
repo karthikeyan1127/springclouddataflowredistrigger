@@ -1,0 +1,3 @@
+com\example\constants\CloudFunctionConstants.class
+com\example\Example.class
+com\example\Example$GCSEvent.class
